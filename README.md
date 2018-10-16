@@ -19,7 +19,7 @@ https://blog.gdeltproject.org/announcing-the-gdelt-global-difference-graph-gdg-p
 
 - tracks changes in news articles 24 hours and again 1 week after publication.  Available in several formats - I've been collecting the minute-by-minute releases and keeping only records from certain domains or matching certain keywords
 - complete GDG dataset feels too big to be worth retaining, but I definitely see value in harvesting targeted content. Probably best suits a simple Shiny app rather than full Aardvark treatment.
-- sample is actually the complete GDG from 28 Aug - 14 Oct from select Russian state media and ministry sites plus global content matching key Salisbury references in Latin and Cyrillic.
+- sample 12-14 Oct from select Russian state media and ministry sites plus global content matching key Salisbury references in Latin and Cyrillic.
 
 
 ## Lookups
